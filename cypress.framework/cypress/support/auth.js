@@ -5,7 +5,7 @@
 /// <reference types="cypress" />
 // import { method } from "cypress/types/bluebird";
 import authSettings from "./authsettings.json";
-
+//Ghi chu choi
 import { decode, JwtPayload } from 'jsonwebtoken';
 
 const {
