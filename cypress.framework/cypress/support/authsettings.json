@@ -1,0 +1,9 @@
+{
+    "authority": "https://login.microsoftonline.com/38c12a6e-bfee-41c5-8e3c-b1f44e2c04d4",
+    "clientId": "20a28e8b-48b3-44c4-8d6b-1e41d84d5ce6",
+    "clientSecret":"SAq7Q~nGGmjn7aXNi7yOxYzYNl0L~g0AzpfSt",
+  
+    "apiScopes":["api://omniapreprod.omniatestcloud.net/20a28e8b-48b3-44c4-8d6b-1e41d84d5ce6/user_impersonation"],
+    "username": "admin@omniapreprod.onmicrosoft.com",
+    "password": "d(jAHbQTmR9=F,ytEnbL"
+}

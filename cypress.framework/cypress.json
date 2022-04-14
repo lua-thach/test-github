@@ -1,0 +1,6 @@
+{
+    "watchForFileChanges": false,
+    "chromeWebSecurity": false,
+    "baseUrl":"https://omniapreprod.omniatestcloud.net"
+    
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cypress.framework",
+  "version": "1.0.0",
+  "description": "Cypress project for beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress",
+    "automation",
+    "frameworks"
+  ],
+  "author": "Lua",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.23.9",
+    "cypress": "^9.5.1"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
